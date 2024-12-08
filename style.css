@@ -1,0 +1,52 @@
+/* font-family:"Protest Revolution", sans-serif; */
+@import url('https://fonts.googleapis.com/css2?family=Protest+Revolution&display=swap');
+/* font-family: "Pacifico", cursive; */
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* 
+h1{
+    margin:20px 0;
+} */
+
+
+#text{
+    margin: 20px 0;
+    font-family: "Playwrite NG Modern", cursive;
+    text-align: center;
+    line-height: 30px;
+    margin-top: 100px;
+}
+
+#text1{
+    font-family:"Protest Revolution", sans-serif;
+    color:rgb(214, 14, 14);
+    line-height: 60px;
+    text-align: center;
+    letter-spacing: 5px;
+    }
+#text2{
+    font-family:  "Pacifico", cursive;
+    color: rgb(163, 57, 92);
+    /* background-color: rgb(75, 75, 185); */
+    line-height: 60px;
+    margin:auto;
+    text-align: center;
+    letter-spacing: 5px;
+}
+
+#text > p{
+    background-color: maroon;
+    color: white;
+    margin:auto;
+    width: 400px;
+    /* height: 100px;
+    font-size: 70px; */
+    
+}
